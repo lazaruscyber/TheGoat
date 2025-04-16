@@ -22,6 +22,7 @@ Quick Setup & Run
 # Install Required Libraries
 pip install selenium
 pip install tkinter
+pip install customtkinter
 pip install pyperclip
 ```
 * Run the script:
