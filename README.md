@@ -8,7 +8,7 @@ The Goat | Discord BotNet
 
 ![2018-01-19_0-45-07](https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif)
 
-OWASP Nettacker project is created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software **will** utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. By leveraging a unique method in OWASP Nettacker for discovering protected services and devices such as SCADA. It would make a competitive edge compared to other scanners making it one of the best.
+The Goat BotNet is a BotNet tool for pentesting discord servers by raid. The Goat is NOT a discord server nuker. It does not require a bot to be added or a webhook. This is a BotNet which means it uses REAL Discord Accounts to mass-spam a server. This tool can easily be countered by setting Slowmodes and locking down the channels which will cause a temporary outage in the server. The goal of a BotNet is to put the target at a outage and not completely destroy the target. Please remember that this is NOT a discord nuker.
 
 
 * Our Discord: https://disboard.org/server/1330294383874019370
