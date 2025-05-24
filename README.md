@@ -6,7 +6,7 @@ The Goat | Discord BotNet
 
 * ***THE GOAT has been RETIRED as of May 24, 2025.***
 
-![2018-01-19_0-45-07](https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif)
+![2018-01-19_0-45-07](https://media.discordapp.net/attachments/1330294384431726613/1362076560278032614/Screenshot_2025-04-16_at_10.42.31_AM.png?ex=68011426&is=67ffc2a6&hm=3f059fca70d7a951b09462bf425c29521295405e13349b1bf66f26e5dfefd262&=&width=1686&height=1396)
 
 The Goat BotNet is a BotNet tool for pentesting discord servers by raid. The Goat is NOT a discord server nuker. It does not require a bot to be added or a webhook. This is a BotNet which means it uses REAL Discord Accounts to mass-spam a server. This tool can easily be countered by setting Slowmodes and locking down the channels which will cause a temporary outage in the server. The goal of a BotNet is to put the target at a outage and not completely destroy the target. Please remember that this is NOT a discord nuker.
 
@@ -22,6 +22,7 @@ Quick Setup & Run
 # Install Required Libraries
 pip install selenium
 pip install tkinter
+pip install customtkinter
 pip install pyperclip
 ```
 * Run the script:
